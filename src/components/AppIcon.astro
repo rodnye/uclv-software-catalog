@@ -1,0 +1,48 @@
+---
+interface Props {
+  name: string;
+  iconUrl?: string;
+  iconBg?: string;
+  iconColor?: string;
+  size?: 'sm' | 'md' | 'lg';
+}
+
+import { getInitials, defaultIconBg } from '../lib/utils';
+
+const {
+  name,
+  iconUrl,
+  iconBg,
+  iconColor = 'text-white',
+  size = 'md',
+} = Astro.props;
+
+const sizeClasses = {
+  sm: 'h-12 w-12 rounded-xl text-sm',
+  md: 'h-16 w-16 rounded-2xl text-lg',
+  lg: 'h-24 w-24 rounded-3xl text-2xl',
+};
+
+const cls = sizeClasses[size];
+const bg = iconBg ?? defaultIconBg;
+---
+
+{
+  iconUrl ? (
+    <img
+      src={iconUrl}
+      alt={`Icono de ${name}`}
+      class={`${cls} object-cover shadow-sm`}
+      loading="lazy"
+      width="96"
+      height="96"
+    />
+  ) : (
+    <div
+      class={`${cls} bg-gradient-to-br ${bg} ${iconColor} flex items-center justify-center font-bold shadow-sm select-none`}
+      aria-hidden="true"
+    >
+      {getInitials(name)}
+    </div>
+  )
+}
