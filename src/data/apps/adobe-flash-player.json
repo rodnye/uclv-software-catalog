@@ -1,0 +1,57 @@
+{
+  "id": "adobe-flash-player",
+  "name": "Adobe Flash Player",
+  "shortDescription": "Plugin para contenido multimedia interactivo web",
+  "fullDescription": "Adobe Flash Player es un plugin para navegadores que permite reproducir contenido multimedia interactivo, animaciones y aplicaciones web creadas con la tecnología Flash. Aunque ha sido declarado obsoleto (EOL), todavía puede ser necesario para acceder a contenido heredado. Incluye versiones para diferentes navegadores: PPAPI (Chrome), NPAPI (Firefox) y ActiveX (Internet Explorer), así como la versión para macOS y la herramienta de desinstalación.",
+  "category": "Ejecutivos y Runtimes",
+  "iconName": "Zap",
+  "version": "32.0.0.192",
+  "developer": "Adobe Inc.",
+  "links": [
+    {
+      "title": "Adobe Flash Player EOL",
+      "url": "https://www.adobe.com/products/flashplayer/end-of-life.html",
+      "type": "official"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "Adobe.Flash.Player.32.0.0.192.PPAPI.exe",
+      "size": 21116952,
+      "date": "14-May-2019",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Flash.Player/Adobe.Flash.Player.32.0.0.192.PPAPI/Adobe.Flash.Player.32.0.0.192.PPAPI.exe"
+    },
+    {
+      "name": "Adobe.Flash.Player.32.0.0.192.Windows.exe",
+      "size": 16267832,
+      "date": "14-May-2019",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Flash.Player/Adobe.Flash.Player.32.0.0.192.Windows/Adobe.Flash.Player.32.0.0.192.Windows.exe"
+    },
+    {
+      "name": "Adobe.Flash.Player.32.0.0.192.firefox.exe",
+      "size": 21315096,
+      "date": "14-May-2019",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Flash.Player/Adobe.Flash.Player.32.0.0.192.firefox/Adobe.Flash.Player.32.0.0.192.firefox.exe"
+    },
+    {
+      "name": "Adobe.Flash.Player.32.0.0.192.ie.exe",
+      "size": 20787736,
+      "date": "14-May-2019",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Flash.Player/Adobe.Flash.Player.32.0.0.192.ie/Adobe.Flash.Player.32.0.0.192.ie.exe"
+    },
+    {
+      "name": "Adobe.Flash.Player.32.0.0.192.osx.dmg",
+      "size": 22367828,
+      "date": "09-Jun-2019",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Flash.Player/Adobe.Flash.Player.32.0.0.192.osx/Adobe.Flash.Player.32.0.0.192.osx.dmg"
+    }
+  ],
+  "associatedResources": [
+    {
+      "name": "Adobe.Flash.Player.Uninstaller.32.0.0.192.exe",
+      "size": 1457208,
+      "date": "14-May-2019",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Flash.Player/Adobe.Flash.Player.Uninstaller.32.0.0.192/Adobe.Flash.Player.Uninstaller.32.0.0.192.exe"
+    }
+  ]
+}

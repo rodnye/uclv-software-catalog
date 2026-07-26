@@ -1,0 +1,74 @@
+{
+  "id": "adobe-acrobat-reader",
+  "name": "Adobe Acrobat Reader DC",
+  "shortDescription": "El lector de PDF más popular del mundo",
+  "fullDescription": "Adobe Acrobat Reader DC es el estándar mundial para visualizar, imprimir y anotar documentos PDF. Permite abrir y leer cualquier archivo PDF, agregar comentarios y anotaciones, firmar documentos digitalmente y rellenar formularios. Incluye también herramientas para convertir documentos a PDF y compartir archivos de forma segura. Disponible en versiones de 32 y 64 bits, en múltiples idiomas.",
+  "category": "Productividad",
+  "iconName": "FileText",
+  "version": "2023.003.20201",
+  "developer": "Adobe Inc.",
+  "links": [
+    {
+      "title": "Página oficial de Adobe Reader",
+      "url": "https://get.adobe.com/es/reader/",
+      "type": "official"
+    },
+    {
+      "title": "Tutorial Adobe Reader DC en YouTube",
+      "url": "https://www.google.com/search?q=Adobe+Acrobat+Reader+DC+tutorial",
+      "type": "other"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "AcroRdrDCx642300320201_es_ES.exe",
+      "size": 355683792,
+      "date": "12-Jun-2023",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Acrobat.Reader/AcroRdrDCx642300320201_es_ES.exe"
+    },
+    {
+      "name": "AcroRdrDCx642300320201_en_US.exe",
+      "size": 353773008,
+      "date": "12-Jun-2023",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Acrobat.Reader/AcroRdrDCx642300320201_en_US.exe"
+    },
+    {
+      "name": "AcroRdrDCx642300120064_es_ES.exe",
+      "size": 349864912,
+      "date": "28-Mar-2023",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Acrobat.Reader/AcroRdrDCx642300120064_es_ES.exe"
+    },
+    {
+      "name": "AcroRdrDC2300320201_es_ES.exe",
+      "size": 263858640,
+      "date": "12-Jun-2023",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Acrobat.Reader/AcroRdrDC2300320201_es_ES.exe"
+    },
+    {
+      "name": "AcroRdrDC2300320201_en_US.exe",
+      "size": 263651792,
+      "date": "12-Jun-2023",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Acrobat.Reader/AcroRdrDC2300320201_en_US.exe"
+    },
+    {
+      "name": "AcroRdrDC2300120064_es_ES.exe",
+      "size": 258781648,
+      "date": "28-Mar-2023",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Acrobat.Reader/AcroRdrDC2300120064_es_ES.exe"
+    }
+  ],
+  "associatedResources": [
+    {
+      "name": "AdobeAcroCleaner_DC2021.exe",
+      "size": 2871464,
+      "date": "19-Jun-2023",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Acrobat.Reader/AdobeAcroCleaner_DC2021.exe"
+    },
+    {
+      "name": "source.txt",
+      "size": 140,
+      "date": "12-Jun-2023",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Acrobat.Reader/source.txt"
+    }
+  ]
+}

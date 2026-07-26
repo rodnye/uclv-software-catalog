@@ -1,0 +1,68 @@
+{
+  "id": "adobe-creative-cloud",
+  "name": "Adobe Creative Cloud",
+  "shortDescription": "Suite completa de herramientas creativas profesionales",
+  "fullDescription": "Adobe Creative Cloud es la colección de software de diseño y creatividad más completa del mercado. Incluye aplicaciones como Photoshop, Illustrator, InDesign, Animate y XD, entre otras. Diseñada para profesionales de la creatividad, permite crear diseños gráficos, ediciones fotográficas, maquetaciones, animaciones y prototipos de interfaces. Esta versión incluye instaladores para macOS con parche de activación.",
+  "category": "Diseño y Fotografía",
+  "iconName": "Palette",
+  "version": "CC 2019",
+  "developer": "Adobe Inc.",
+  "links": [
+    {
+      "title": "Página oficial de Adobe Creative Cloud",
+      "url": "https://www.adobe.com/creativecloud.html",
+      "type": "official"
+    },
+    {
+      "title": "Tutoriales Adobe CC en YouTube",
+      "url": "https://www.google.com/search?q=Adobe+Creative+Cloud+tutorial",
+      "type": "other"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "Adobe_Animate_CC_2019_v19.1.dmg",
+      "size": 1963347005,
+      "date": "31-May-2019",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Creative.Cloud/2019/Adobe_Animate_CC_2019_v19.1_%5BTNT%5D.dmg"
+    },
+    {
+      "name": "Adobe_InDesign_CC_2019_v14.0.1.dmg",
+      "size": 954246001,
+      "date": "31-May-2019",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Creative.Cloud/2019/Adobe_InDesign_CC_2019_v14.0.1_%5BTNT%5D.dmg"
+    },
+    {
+      "name": "Adobe_XD_CC_v16.0.2.dmg",
+      "size": 449481114,
+      "date": "31-May-2019",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Creative.Cloud/2019/Adobe_XD_CC_v16.0.2_%5BTNT%5D.dmg"
+    },
+    {
+      "name": "AI23.0.1.dmg (Illustrator)",
+      "size": 2159310318,
+      "date": "31-May-2019",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Creative.Cloud/2019/AI23.0.1.dmg"
+    },
+    {
+      "name": "AIndesign14.0.1.dmg",
+      "size": 948926887,
+      "date": "31-May-2019",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Creative.Cloud/2019/AIndesign14.0.1.dmg"
+    },
+    {
+      "name": "APS_20181015.dmg (Photoshop)",
+      "size": 1802890558,
+      "date": "31-May-2019",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Creative.Cloud/2019/APS_20181015.dmg"
+    }
+  ],
+  "associatedResources": [
+    {
+      "name": "Adobe_Zii_2019_4_1_2.dmg",
+      "size": 1163331,
+      "date": "31-May-2019",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.Creative.Cloud/2019/Adobe_Zii_2019_4_1_2.dmg"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "acdsee",
+  "name": "ACDSee Photo Studio",
+  "shortDescription": "Editor y organizador profesional de fotografías",
+  "fullDescription": "ACDSee Photo Studio Ultimate es un completo software de gestión y edición de fotografías. Ofrece herramientas avanzadas de edición no destructiva, gestión de activos digitales con palabras clave y categorías, soporte para capas, edición RAW y capacidades de procesamiento por lotes. Ideal para fotógrafos profesionales que necesitan organizar y editar grandes colecciones de imágenes.",
+  "category": "Diseño y Fotografía",
+  "iconName": "Camera",
+  "version": "2020 v13.0.2",
+  "developer": "ACD Systems",
+  "links": [
+    {
+      "title": "Página oficial de ACDSee",
+      "url": "https://www.acdsee.com/",
+      "type": "official"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "ACDSee Photo Studio Ultimate 2020 v13.0.2.2055.iso",
+      "size": 128141312,
+      "date": "29-Jun-2020",
+      "url": "https://soft.uclv.edu.cu/ACDSee/ACDSee%20Photo%20Studio%20Ultimate%202020%20v13.0.2.2055.iso"
+    }
+  ],
+  "associatedResources": []
+}

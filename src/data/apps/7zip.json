@@ -1,0 +1,105 @@
+{
+  "id": "7zip",
+  "name": "7-Zip",
+  "shortDescription": "Compresor y descompresor de archivos de código abierto",
+  "fullDescription": "7-Zip es un software de compresión de archivos con una alta tasa de compresión. Soporta numerosos formatos incluyendo 7z, ZIP, RAR, GZIP, TAR y más. Es gratuito y de código abierto, con una interfaz sencilla pero potente que permite crear archivos autoextraíbles, cifrar con AES-256 y gestionar archivos grandes eficientemente.",
+  "category": "Utilidades",
+  "iconName": "Archive",
+  "iconUrl": "https://weblinus.com/wp-content/uploads/2023/10/7Zip.jpeg",
+  "version": "23.01",
+  "developer": "Igor Pavlov",
+  "links": [
+    {
+      "title": "Página oficial de 7-Zip",
+      "url": "https://www.7-zip.org/",
+      "type": "official"
+    },
+    {
+      "title": "Código fuente",
+      "url": "https://sourceforge.net/projects/sevenzip/",
+      "type": "source"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "7z2301-arm64.exe",
+      "size": 1527518,
+      "date": "20-Jun-2023",
+      "url": "https://soft.uclv.edu.cu/7zip/7z2301-arm64.exe"
+    },
+    {
+      "name": "7z2301-x64.exe",
+      "size": 1589510,
+      "date": "20-Jun-2023",
+      "url": "https://soft.uclv.edu.cu/7zip/7z2301-x64.exe"
+    },
+    {
+      "name": "7z2301-x64.msi",
+      "size": 1933312,
+      "date": "20-Jun-2023",
+      "url": "https://soft.uclv.edu.cu/7zip/7z2301-x64.msi"
+    },
+    {
+      "name": "7z2301.exe",
+      "size": 1301195,
+      "date": "20-Jun-2023",
+      "url": "https://soft.uclv.edu.cu/7zip/7z2301.exe"
+    },
+    {
+      "name": "7z2301.msi",
+      "size": 1501184,
+      "date": "20-Jun-2023",
+      "url": "https://soft.uclv.edu.cu/7zip/7z2301.msi"
+    },
+    {
+      "name": "7z2409-x64.exe",
+      "size": 1637343,
+      "date": "24-May-2025",
+      "url": "https://soft.uclv.edu.cu/7zip/7z2409-x64.exe"
+    },
+    {
+      "name": "7z2101-x64.exe",
+      "size": 1481013,
+      "date": "16-Mar-2021",
+      "url": "https://soft.uclv.edu.cu/7zip/7z2101-x64.exe"
+    },
+    {
+      "name": "7z2101.exe",
+      "size": 1216083,
+      "date": "16-Mar-2021",
+      "url": "https://soft.uclv.edu.cu/7zip/7z2101.exe"
+    },
+    {
+      "name": "7z1900-x64.exe",
+      "size": 1447178,
+      "date": "22-Feb-2019",
+      "url": "https://soft.uclv.edu.cu/7zip/7z1900-x64.exe"
+    },
+    {
+      "name": "7z1900.exe",
+      "size": 1185968,
+      "date": "22-Feb-2019",
+      "url": "https://soft.uclv.edu.cu/7zip/7z1900.exe"
+    },
+    {
+      "name": "7z1602-x64.zip",
+      "size": 1363272,
+      "date": "31-May-2019",
+      "url": "https://soft.uclv.edu.cu/7zip/7z1602-x64.zip"
+    },
+    {
+      "name": "7z920.zip",
+      "size": 1075934,
+      "date": "31-May-2019",
+      "url": "https://soft.uclv.edu.cu/7zip/7z920.zip"
+    }
+  ],
+  "associatedResources": [
+    {
+      "name": "source.txt",
+      "size": 36,
+      "date": "19-Apr-2020",
+      "url": "https://soft.uclv.edu.cu/7zip/source.txt"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "harbor",
+  "name": "Harbor",
+  "shortDescription": "Registro de contenedores Docker de código abierto",
+  "fullDescription": "Harbor es un registro de contenedores Docker de código abierto desarrollado por VMware. Proporciona un entorno seguro para almacenar y distribuir imágenes de contenedores Docker. Incluye características como escaneo de vulnerabilidades, políticas de seguridad basadas en roles, replicación entre registries, y gestión de imágenes con firmas de confianza. Esencial para entornos de producción que requieren un registry privado.",
+  "category": "Desarrollo",
+  "iconName": "Container",
+  "iconBg": "from-cyan-600 to-teal-700",
+  "iconColor": "text-white",
+  "version": "v2.9.3",
+  "developer": "VMware / CNCF",
+  "links": [
+    {
+      "title": "Página oficial de Harbor",
+      "url": "https://goharbor.io/",
+      "type": "official"
+    },
+    {
+      "title": "Documentación de Harbor",
+      "url": "https://goharbor.io/docs/",
+      "type": "documentation"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "harbor-offline-installer-v2.9.3.tgz",
+      "size": 645997477,
+      "date": "08-Mar-2024",
+      "url": "https://soft.uclv.edu.cu/Harbor/harbor-offline-installer-v2.9.3.tgz"
+    }
+  ],
+  "associatedResources": []
+}

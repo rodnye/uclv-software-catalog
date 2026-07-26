@@ -1,0 +1,33 @@
+{
+  "id": "issabel",
+  "name": "Issabel",
+  "shortDescription": "Sistema PBX IP y comunicaciones unificadas",
+  "fullDescription": "Issabel es una distribución Linux basada en CentOS que proporciona un sistema PBX IP y comunicaciones unificadas de código abierto. Integra Asterisk, FreePBX y múltiples módulos para gestión de telefonía IP, videoconferencia, mensajería instantánea y correo de voz. Ofrece una interfaz web intuitiva para configurar extensiones, troncales SIP, reglas de enrutamiento y más. Ideal para empresas que necesitan una solución de telefonía empresarial completa.",
+  "category": "Redes y Comunicaciones",
+  "iconName": "Phone",
+  "iconBg": "from-teal-500 to-cyan-700",
+  "iconColor": "text-white",
+  "version": "4 USB-DVD",
+  "developer": "Issabel Corp.",
+  "links": [
+    {
+      "title": "Página oficial de Issabel",
+      "url": "https://www.issabel.org/",
+      "type": "official"
+    },
+    {
+      "title": "Documentación de Issabel",
+      "url": "https://docs.issabel.org/",
+      "type": "documentation"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "issabel4-USB-DVD-x86_64-20200102.iso",
+      "size": 1644167168,
+      "date": "16-Jun-2020",
+      "url": "https://soft.uclv.edu.cu/Issabel/issabel4-USB-DVD-x86_64-20200102.iso"
+    }
+  ],
+  "associatedResources": []
+}

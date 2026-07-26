@@ -1,0 +1,64 @@
+{
+  "id": "google-chrome",
+  "name": "Google Chrome",
+  "shortDescription": "El navegador web más rápido y popular",
+  "fullDescription": "Google Chrome es el navegador web más utilizado del mundo, conocido por su velocidad, seguridad y simplicidad. Basado en el motor Blink, ofrece un renderizado rápido de páginas web, extensiones para personalizar la experiencia, sincronización entre dispositivos con cuenta Google y herramientas de desarrollo integradas. Disponible en versiones Enterprise para gestión corporativa y para diferentes plataformas.",
+  "category": "Navegadores Web",
+  "iconName": "Globe",
+  "iconBg": "from-green-500 to-green-700",
+  "iconColor": "text-white",
+  "version": "105.0.5195",
+  "developer": "Google LLC",
+  "links": [
+    {
+      "title": "Página oficial de Google Chrome",
+      "url": "https://www.google.com/chrome/",
+      "type": "official"
+    },
+    {
+      "title": "Chrome Web Store",
+      "url": "https://chrome.google.com/webstore",
+      "type": "other"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "ChromeStandaloneSetup64.exe (v105)",
+      "size": 93216296,
+      "date": "13-Oct-2022",
+      "url": "https://soft.uclv.edu.cu/Google.Chrome/105.0.5195/ChromeStandaloneSetup64.exe"
+    },
+    {
+      "name": "GoogleChromeEnterpriseBundle64.zip (v97)",
+      "size": 126628581,
+      "date": "06-Jan-2022",
+      "url": "https://soft.uclv.edu.cu/Google.Chrome/97.0.4692.71/GoogleChromeEnterpriseBundle64.zip"
+    },
+    {
+      "name": "GoogleChromeEnterpriseBundle64.zip (v87)",
+      "size": 109236457,
+      "date": "02-Dec-2020",
+      "url": "https://soft.uclv.edu.cu/Google.Chrome/87.0.4280.88/GoogleChromeEnterpriseBundle64.zip"
+    },
+    {
+      "name": "GoogleChromeEnterpriseBundle.zip (v87)",
+      "size": 105799897,
+      "date": "02-Dec-2020",
+      "url": "https://soft.uclv.edu.cu/Google.Chrome/87.0.4280.88/GoogleChromeEnterpriseBundle.zip"
+    },
+    {
+      "name": "googlechrome.dmg (v87)",
+      "size": 100234664,
+      "date": "02-Dec-2020",
+      "url": "https://soft.uclv.edu.cu/Google.Chrome/87.0.4280.88/googlechrome.dmg"
+    }
+  ],
+  "associatedResources": [
+    {
+      "name": "source.txt",
+      "size": 60,
+      "date": "08-May-2020",
+      "url": "https://soft.uclv.edu.cu/Google.Chrome/source.txt"
+    }
+  ]
+}

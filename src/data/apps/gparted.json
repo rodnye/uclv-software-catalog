@@ -1,0 +1,33 @@
+{
+  "id": "gparted",
+  "name": "GParted",
+  "shortDescription": "Editor de particiones de disco gratuito",
+  "fullDescription": "GParted (GNOME Partition Editor) es un editor de particiones de disco gratuito y de código abierto. Permite redimensionar, crear, eliminar, mover y copiar particiones sin pérdida de datos. Soporta sistemas de archivos como ext2/3/4, FAT16/32, NTFS, HFS+ y más. Se ejecuta desde un medio arrancable (Live CD/USB), lo que permite manipular particiones incluso del sistema operativo en uso.",
+  "category": "Herramientas del Sistema",
+  "iconName": "HardDrive",
+  "iconBg": "from-yellow-500 to-amber-600",
+  "iconColor": "text-white",
+  "version": "1.8.1-3",
+  "developer": "GNOME Project",
+  "links": [
+    {
+      "title": "Página oficial de GParted",
+      "url": "https://gparted.org/",
+      "type": "official"
+    },
+    {
+      "title": "Tutorial GParted en YouTube",
+      "url": "https://www.google.com/search?q=GParted+tutorial+espa%C3%B1ol",
+      "type": "other"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "gparted-live-1.8.1-3-amd64.iso",
+      "size": 649068544,
+      "date": "21-May-2026",
+      "url": "https://soft.uclv.edu.cu/GParted/gparted-live-1.8.1-3-amd64.iso"
+    }
+  ],
+  "associatedResources": []
+}

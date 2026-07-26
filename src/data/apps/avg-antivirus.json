@@ -1,0 +1,33 @@
+{
+  "id": "avg-antivirus",
+  "name": "AVG Antivirus Free",
+  "shortDescription": "Protección antivirus gratuita para tu PC",
+  "fullDescription": "AVG Antivirus Free es una solución de seguridad gratuita que protege tu equipo contra virus, malware, spyware y amenazas en línea. Incluye protección en tiempo real, escaneos programados, protección durante la navegación web y escudo de correo electrónico. Su interfaz intuitiva y bajo consumo de recursos lo hacen ideal para usuarios que buscan protección básica sin afectar el rendimiento del sistema.",
+  "category": "Seguridad",
+  "iconName": "Shield",
+  "iconBg": "from-green-500 to-emerald-700",
+  "iconColor": "text-white",
+  "version": "Free Edition",
+  "developer": "AVG Technologies",
+  "links": [
+    {
+      "title": "Página oficial de AVG",
+      "url": "https://www.avg.com/",
+      "type": "official"
+    },
+    {
+      "title": "AVG Antivirus Review en YouTube",
+      "url": "https://www.google.com/search?q=AVG+antivirus+review",
+      "type": "other"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "avg_antivirus_free_setup.exe",
+      "size": 224072,
+      "date": "26-Oct-2021",
+      "url": "https://soft.uclv.edu.cu/AVG/avg_antivirus_free_setup.exe"
+    }
+  ],
+  "associatedResources": []
+}

@@ -1,0 +1,112 @@
+{
+  "id": "aimp",
+  "name": "AIMP",
+  "shortDescription": "Reproductor de audio avanzado y ligero",
+  "fullDescription": "AIMP es un reproductor de audio gratuito para Windows con una interfaz altamente personalizable y un motor de sonido de alta calidad. Soporta múltiples formatos de audio (MP3, FLAC, OGG, WAV, AAC, etc.), incluye un ecualizador de 18 bandas, efectos de sonido, gestión de listas de reproducción y conversión de formatos. También permite la grabación de audio y la captura de streams de radio por internet.",
+  "category": "Audio y Multimedia",
+  "iconName": "Music",
+  "iconBg": "from-violet-600 to-purple-800",
+  "iconColor": "text-white",
+  "version": "5.11.2434",
+  "developer": "Artem Izmaylov",
+  "links": [
+    {
+      "title": "Página oficial de AIMP",
+      "url": "https://www.aimp.ru/",
+      "type": "official"
+    },
+    {
+      "title": "AIMP en YouTube",
+      "url": "https://www.google.com/search?q=AIMP+music+player",
+      "type": "other"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "aimp_5.11.2434_w64.exe",
+      "size": 18787728,
+      "date": "03-Aug-2023",
+      "url": "https://soft.uclv.edu.cu/AIMP/aimp_5.11.2434_w64.exe"
+    },
+    {
+      "name": "aimp_5.11.2434_w32.exe",
+      "size": 15699856,
+      "date": "03-Aug-2023",
+      "url": "https://soft.uclv.edu.cu/AIMP/aimp_5.11.2434_w32.exe"
+    },
+    {
+      "name": "aimp_5.11.2432_w64.exe",
+      "size": 18789592,
+      "date": "09-Jun-2023",
+      "url": "https://soft.uclv.edu.cu/AIMP/aimp_5.11.2432_w64.exe"
+    },
+    {
+      "name": "aimp_5.11.2432_w32.exe",
+      "size": 15700184,
+      "date": "09-Jun-2023",
+      "url": "https://soft.uclv.edu.cu/AIMP/aimp_5.11.2432_w32.exe"
+    },
+    {
+      "name": "aimp_5.11.2427_w64.exe",
+      "size": 18752216,
+      "date": "29-Mar-2023",
+      "url": "https://soft.uclv.edu.cu/AIMP/aimp_5.11.2427_w64.exe"
+    },
+    {
+      "name": "aimp_5.11.2427_w32.exe",
+      "size": 15611608,
+      "date": "29-Mar-2023",
+      "url": "https://soft.uclv.edu.cu/AIMP/aimp_5.11.2427_w32.exe"
+    },
+    {
+      "name": "aimp_5.11.2425_w64.exe",
+      "size": 18752216,
+      "date": "29-Mar-2023",
+      "url": "https://soft.uclv.edu.cu/AIMP/aimp_5.11.2425_w64.exe"
+    },
+    {
+      "name": "aimp_5.11.2425_w32.exe",
+      "size": 15611608,
+      "date": "29-Mar-2023",
+      "url": "https://soft.uclv.edu.cu/AIMP/aimp_5.11.2425_w32.exe"
+    },
+    {
+      "name": "aimp_5.01.2358.exe",
+      "size": 13480248,
+      "date": "28-Dec-2021",
+      "url": "https://soft.uclv.edu.cu/AIMP/aimp_5.01.2358.exe"
+    },
+    {
+      "name": "aimp_4.70.2254.exe",
+      "size": 12478320,
+      "date": "06-Sep-2021",
+      "url": "https://soft.uclv.edu.cu/AIMP/aimp_4.70.2254.exe"
+    },
+    {
+      "name": "aimp_4.70.2248.exe",
+      "size": 12481840,
+      "date": "04-Apr-2021",
+      "url": "https://soft.uclv.edu.cu/AIMP/aimp_4.70.2248.exe"
+    },
+    {
+      "name": "aimp_4.70.2239.exe",
+      "size": 12458248,
+      "date": "11-Jan-2021",
+      "url": "https://soft.uclv.edu.cu/AIMP/aimp_4.70.2239.exe"
+    },
+    {
+      "name": "aimp_4.70.2236.exe",
+      "size": 12460328,
+      "date": "25-Nov-2020",
+      "url": "https://soft.uclv.edu.cu/AIMP/aimp_4.70.2236.exe"
+    }
+  ],
+  "associatedResources": [
+    {
+      "name": "source.txt",
+      "size": 44,
+      "date": "03-Dec-2020",
+      "url": "https://soft.uclv.edu.cu/AIMP/source.txt"
+    }
+  ]
+}

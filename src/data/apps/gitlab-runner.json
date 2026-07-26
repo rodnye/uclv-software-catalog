@@ -1,0 +1,39 @@
+{
+  "id": "gitlab-runner",
+  "name": "GitLab Runner",
+  "shortDescription": "Ejecutor de pipelines CI/CD para GitLab",
+  "fullDescription": "GitLab Runner es la aplicación que ejecuta los jobs de CI/CD en pipelines de GitLab. Puede ejecutarse en múltiples plataformas y soporta diferentes ejecutores como Docker, Shell, VirtualBox y Kubernetes. Permite automatizar el proceso de build, test y deploy de proyectos de software, integrándose directamente con la plataforma GitLab CI/CD.",
+  "category": "Desarrollo",
+  "iconName": "GitBranch",
+  "iconBg": "from-orange-600 to-orange-800",
+  "iconColor": "text-white",
+  "version": "15.10.0",
+  "developer": "GitLab Inc.",
+  "links": [
+    {
+      "title": "Documentación de GitLab Runner",
+      "url": "https://docs.gitlab.com/runner/",
+      "type": "documentation"
+    },
+    {
+      "title": "Página oficial de GitLab",
+      "url": "https://about.gitlab.com/",
+      "type": "official"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "gitlab-runner_amd64-15.10.0.deb",
+      "size": 458795474,
+      "date": "26-Mar-2023",
+      "url": "https://soft.uclv.edu.cu/GitLab/gitlab-runner_amd64-15.10.0.deb"
+    },
+    {
+      "name": "gitlab-runner_amd64-15.5.0.deb",
+      "size": 440908218,
+      "date": "10-Nov-2022",
+      "url": "https://soft.uclv.edu.cu/GitLab/gitlab-runner_amd64-15.5.0.deb"
+    }
+  ],
+  "associatedResources": []
+}

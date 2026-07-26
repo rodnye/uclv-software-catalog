@@ -1,0 +1,28 @@
+{
+  "id": "alipay",
+  "name": "AliPay",
+  "shortDescription": "Plataforma de pagos móviles",
+  "fullDescription": "AliPay es una de las plataformas de pagos móviles más grandes del mundo, desarrollada por Ant Group. Permite realizar pagos en línea y fuera de línea, transferencias de dinero, pago de servicios y compras en comercios. Con millones de usuarios activos, es la aplicación de pagos líder en China y está expandiendo sus servicios a nivel global.",
+  "category": "Finanzas",
+  "iconName": "CreditCard",
+  "iconBg": "from-sky-500 to-blue-600",
+  "iconColor": "text-white",
+  "version": "WAP Main 64",
+  "developer": "Ant Group",
+  "links": [
+    {
+      "title": "Página oficial de AliPay",
+      "url": "https://www.alipay.com/",
+      "type": "official"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "alipay_wap_main_64.apk",
+      "size": 203075893,
+      "date": "16-Jun-2025",
+      "url": "https://soft.uclv.edu.cu/AliPay/alipay_wap_main_64.apk"
+    }
+  ],
+  "associatedResources": []
+}

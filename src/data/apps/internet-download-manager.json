@@ -1,0 +1,45 @@
+{
+  "id": "internet-download-manager",
+  "name": "Internet Download Manager",
+  "shortDescription": "Acelerador de descargas con reanudación inteligente",
+  "fullDescription": "Internet Download Manager (IDM) es un acelerador de descargas que aumenta la velocidad de descarga hasta 5 veces. Soporta reanudación y programación de descargas, integración con navegadores web, descarga de videos de sitios de streaming y gestión avanzada de archivos. Su tecnología de segmentación dinámica de archivos y múltiples conexiones simultáneas lo convierten en la herramienta líder para gestión de descargas.",
+  "category": "Utilidades",
+  "iconName": "Download",
+  "iconBg": "from-emerald-600 to-green-800",
+  "iconColor": "text-white",
+  "version": "6.41 Build 15",
+  "developer": "Tonec Inc.",
+  "links": [
+    {
+      "title": "Página oficial de IDM",
+      "url": "https://www.internetdownloadmanager.com/",
+      "type": "official"
+    },
+    {
+      "title": "IDM Tutorial en YouTube",
+      "url": "https://www.google.com/search?q=Internet+Download+Manager+tutorial",
+      "type": "other"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "idman641build15.exe",
+      "size": 11317592,
+      "date": "03-Aug-2023",
+      "url": "https://soft.uclv.edu.cu/InternetDownloadManager/idman641build15.exe"
+    },
+    {
+      "name": "idman637build14.exe",
+      "size": 10243088,
+      "date": "01-May-2020",
+      "url": "https://soft.uclv.edu.cu/InternetDownloadManager/idman637build14.exe"
+    },
+    {
+      "name": "idman635build5.exe",
+      "size": 8014976,
+      "date": "24-Sep-2019",
+      "url": "https://soft.uclv.edu.cu/InternetDownloadManager/idman635build5.exe"
+    }
+  ],
+  "associatedResources": []
+}

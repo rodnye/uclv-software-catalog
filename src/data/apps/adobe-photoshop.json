@@ -1,0 +1,31 @@
+{
+  "id": "adobe-photoshop",
+  "name": "Adobe Photoshop",
+  "shortDescription": "El estándar de la industria en edición de imágenes",
+  "fullDescription": "Adobe Photoshop es el software de edición de imágenes más utilizado del mundo. Ofrece herramientas profesionales para retoque fotográfico, composición digital, pintura y diseño gráfico. Incluye funciones avanzadas como capas, máscaras, filtros inteligentes, edición no destructiva y capacidades de IA con Adobe Sensei. Esencial para fotógrafos, diseñadores y artistas digitales.",
+  "category": "Diseño y Fotografía",
+  "iconName": "Image",
+  "version": "CC 2019",
+  "developer": "Adobe Inc.",
+  "links": [
+    {
+      "title": "Página oficial de Adobe Photoshop",
+      "url": "https://www.adobe.com/products/photoshop.html",
+      "type": "official"
+    },
+    {
+      "title": "Tutoriales de Photoshop en YouTube",
+      "url": "https://www.google.com/search?q=Adobe+Photoshop+tutorial+espa%C3%B1ol",
+      "type": "other"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "Adobe.PhotoShop.CC.2019.zip",
+      "size": 1831397605,
+      "date": "21-Jun-2019",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.PhotoShop/Adobe.PhotoShop.CC.2019.zip"
+    }
+  ],
+  "associatedResources": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "inkscape",
+  "name": "Inkscape",
+  "shortDescription": "Editor de gráficos vectoriales gratuito y profesional",
+  "fullDescription": "Inkscape es un editor de gráficos vectoriales de código abierto y gratuito, similar a Adobe Illustrator. Soporta el formato SVG nativo y permite crear ilustraciones, iconos, logotipos, diagramas y mapas con herramientas de dibujo avanzadas. Incluye funciones como capas, trazado de bitmap, edición de nodos, clones, y una amplia gama de filtros y efectos. Ideal para diseñadores gráficos, ilustradores y artistas web.",
+  "category": "Diseño y Fotografía",
+  "iconName": "PenTool",
+  "iconBg": "from-gray-800 to-gray-950",
+  "iconColor": "text-white",
+  "version": "0.92.5",
+  "developer": "Inkscape Project",
+  "links": [
+    {
+      "title": "Página oficial de Inkscape",
+      "url": "https://inkscape.org/",
+      "type": "official"
+    },
+    {
+      "title": "Tutoriales de Inkscape en YouTube",
+      "url": "https://www.google.com/search?q=Inkscape+tutorial+espa%C3%B1ol",
+      "type": "other"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "inkscape-0.92.5-x64.exe",
+      "size": 70829729,
+      "date": "10-Apr-2020",
+      "url": "https://soft.uclv.edu.cu/Inkscape/inkscape-0.92.5-x64.exe"
+    },
+    {
+      "name": "inkscape-0.92.5-x86.exe",
+      "size": 70507309,
+      "date": "10-Apr-2020",
+      "url": "https://soft.uclv.edu.cu/Inkscape/inkscape-0.92.5-x86.exe"
+    }
+  ],
+  "associatedResources": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "uclv-actualizaciones",
+  "name": "Actualizaciones Windows UCLV",
+  "shortDescription": "Archivos de actualización de Windows para la red UCLV",
+  "fullDescription": "Archivos de configuración y actualizaciones de Windows destinados a los equipos de la red de la Universidad Central Marta Abreu de Las Villas (UCLV). Incluye el registro de configuración del servidor WSUS-UCLV para recibir actualizaciones automáticas de Windows y la lista de actualizaciones disponibles.",
+  "category": "Herramientas del Sistema",
+  "iconName": "Settings",
+  "iconBg": "from-blue-500 to-blue-700",
+  "iconColor": "text-white",
+  "version": "2019",
+  "developer": "UCLV",
+  "links": [
+    {
+      "title": "Portal UCLV",
+      "url": "https://www.uclv.edu.cu/",
+      "type": "official"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "WSUS-UCLV.reg",
+      "size": 1960,
+      "date": "05-Jul-2013",
+      "url": "https://soft.uclv.edu.cu/1___UCLV___1/WSUS-UCLV.reg"
+    }
+  ],
+  "associatedResources": [
+    {
+      "name": "ActualizacionesWindows.txt",
+      "size": 413,
+      "date": "21-Jun-2019",
+      "url": "https://soft.uclv.edu.cu/1___UCLV___1/ActualizacionesWindows.txt"
+    },
+    {
+      "name": "LEER.txt",
+      "size": 66,
+      "date": "24-Sep-2019",
+      "url": "https://soft.uclv.edu.cu/2___MOCHILA___2/LEER.txt"
+    }
+  ]
+}

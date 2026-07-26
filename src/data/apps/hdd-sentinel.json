@@ -1,0 +1,65 @@
+{
+  "id": "hdd-sentinel",
+  "name": "HDD Sentinel",
+  "shortDescription": "Monitoreo y diagnóstico de discos duros y SSD",
+  "fullDescription": "Hard Disk Sentinel es una herramienta de monitoreo y análisis de estado de discos duros y SSD. Detecta y reporta problemas en la salud de los discos, temperatura, rendimiento y S.M.A.R.T. Permite anticipar fallos en el hardware y tomar medidas preventivas. Disponible en versiones Pro con funciones avanzadas de alerta y reparación, y versión portable para uso sin instalación.",
+  "category": "Herramientas del Sistema",
+  "iconName": "Thermometer",
+  "iconBg": "from-amber-500 to-yellow-600",
+  "iconColor": "text-white",
+  "version": "Pro",
+  "developer": "H.D.S. Hungary",
+  "links": [
+    {
+      "title": "Página oficial de HDD Sentinel",
+      "url": "https://www.hdsentinel.com/",
+      "type": "official"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "hdsentinel_pro_portable.zip",
+      "size": 42928046,
+      "date": "05-Feb-2023",
+      "url": "https://soft.uclv.edu.cu/HDD_Sentinel/hdsentinel_pro_portable.zip"
+    },
+    {
+      "name": "hdsentinel_pro_setup.zip",
+      "size": 37064423,
+      "date": "05-Feb-2023",
+      "url": "https://soft.uclv.edu.cu/HDD_Sentinel/hdsentinel_pro_setup.zip"
+    },
+    {
+      "name": "hdsentinel_setup.zip",
+      "size": 36596737,
+      "date": "05-Feb-2023",
+      "url": "https://soft.uclv.edu.cu/HDD_Sentinel/hdsentinel_setup.zip"
+    },
+    {
+      "name": "hdsentinel_trial_setup.zip",
+      "size": 37064423,
+      "date": "05-Feb-2023",
+      "url": "https://soft.uclv.edu.cu/HDD_Sentinel/hdsentinel_trial_setup.zip"
+    }
+  ],
+  "associatedResources": [
+    {
+      "name": "hard_disk_sentinel_enterprise.php",
+      "size": 20940,
+      "date": "13-Jul-2023",
+      "url": "https://soft.uclv.edu.cu/HDD_Sentinel/hard_disk_sentinel_enterprise.php"
+    },
+    {
+      "name": "hdsdos.zip",
+      "size": 80252,
+      "date": "20-May-2016",
+      "url": "https://soft.uclv.edu.cu/HDD_Sentinel/hdsdos.zip"
+    },
+    {
+      "name": "hdsentinel-019b.gz",
+      "size": 1518408,
+      "date": "05-Mar-2021",
+      "url": "https://soft.uclv.edu.cu/HDD_Sentinel/hdsentinel-019b.gz"
+    }
+  ]
+}

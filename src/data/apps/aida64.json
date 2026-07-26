@@ -1,0 +1,34 @@
+{
+  "id": "aida64",
+  "name": "AIDA64",
+  "shortDescription": "Diagnóstico y benchmarking avanzado del sistema",
+  "fullDescription": "AIDA64 es una herramienta de diagnóstico y benchmarking de hardware y software para Windows. Proporciona información detallada sobre los componentes del sistema, incluyendo CPU, GPU, RAM, placa base y más. Ofrece pruebas de rendimiento (benchmarks), monitoreo de sensores en tiempo real y diagnósticos completos. Disponible en versiones Engineer y Extreme para diferentes perfiles de usuario.",
+  "category": "Herramientas del Sistema",
+  "iconName": "Cpu",
+  "iconBg": "from-emerald-500 to-teal-700",
+  "iconColor": "text-white",
+  "version": "6.25",
+  "developer": "FinalWire",
+  "links": [
+    {
+      "title": "Página oficial de AIDA64",
+      "url": "https://www.aida64.com/",
+      "type": "official"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "aida64engineer625.exe",
+      "size": 46750368,
+      "date": "06-Apr-2020",
+      "url": "https://soft.uclv.edu.cu/AIDA/aida64engineer625.exe"
+    },
+    {
+      "name": "aida64extreme625.exe",
+      "size": 47610272,
+      "date": "06-Apr-2020",
+      "url": "https://soft.uclv.edu.cu/AIDA/aida64extreme625.exe"
+    }
+  ],
+  "associatedResources": []
+}

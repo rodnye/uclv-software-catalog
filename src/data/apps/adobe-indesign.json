@@ -1,0 +1,26 @@
+{
+  "id": "adobe-indesign",
+  "name": "Adobe InDesign",
+  "shortDescription": "Diseño editorial y maquetación profesional",
+  "fullDescription": "Adobe InDesign es la herramienta líder en la industria para diseño editorial y maquetación de publicaciones. Permite crear diseños para impresión y digitales, incluyendo revistas, libros, folletos y publicaciones interactivas. Ofrece control tipográfico avanzado, gestión de estilos, soporte para capas y integración con otras herramientas de Adobe Creative Cloud.",
+  "category": "Diseño y Fotografía",
+  "iconName": "BookOpen",
+  "version": "CC 2019 v14",
+  "developer": "Adobe Inc.",
+  "links": [
+    {
+      "title": "Página oficial de Adobe InDesign",
+      "url": "https://www.adobe.com/products/indesign.html",
+      "type": "official"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "Adobe.InDesing.CC.2019.v14.x64.rar",
+      "size": 990481986,
+      "date": "26-Nov-2018",
+      "url": "https://soft.uclv.edu.cu/Adobe/Adobe.InDesing/Adobe.InDesing.CC.2019.v14.x64.rar"
+    }
+  ],
+  "associatedResources": []
+}

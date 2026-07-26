@@ -1,0 +1,148 @@
+{
+  "id": "hirens-boot-cd",
+  "name": "Hiren's BootCD",
+  "shortDescription": "Colección de herramientas de diagnóstico y reparación arrancable",
+  "fullDescription": "Hiren's BootCD es un CD arrancable que contiene una colección de herramientas de diagnóstico y reparación del sistema. Incluye utilidades para particionado, recuperación de datos, antivirus, diagnóstico de hardware, herramientas de red y más. Disponible en múltiples versiones incluyendo la edición PE x64 moderna y la clásica versión DOS/Linux. Es una herramienta imprescindible para técnicos de soporte y administradores de sistemas.",
+  "category": "Herramientas del Sistema",
+  "iconName": "Disc",
+  "iconBg": "from-purple-600 to-purple-900",
+  "iconColor": "text-white",
+  "version": "PE x64 / 15.2",
+  "developer": "Hiren",
+  "links": [
+    {
+      "title": "Hiren's BootCD PE",
+      "url": "https://www.hirensbootcd.org/",
+      "type": "official"
+    },
+    {
+      "title": "Tutorial Hiren's BootCD en YouTube",
+      "url": "https://www.google.com/search?q=Hiren%27s+BootCD+tutorial",
+      "type": "other"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "HBCD_PE_x64.iso",
+      "size": 3291686912,
+      "date": "05-Mar-2024",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/HBCD_PE_x64.iso"
+    },
+    {
+      "name": "hbcd-15.2-Restored-V1.1-dvd-proteus.iso",
+      "size": 2974089216,
+      "date": "21-Dec-2013",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/Hiren%27s%20Boot%20DVD%2015.2%20Restored%20Edition%201.1%20%28January%202013%29/hbcd-15.2-Restored-V1.1-dvd-proteus.iso"
+    },
+    {
+      "name": "Hiren's.BootCD.v15.2-UCLV.Modified.iso",
+      "size": 722950144,
+      "date": "20-Mar-2012",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/Hiren%27s.BootCD.v15.1.UCLV.Modified.iso"
+    },
+    {
+      "name": "Hiren's.BootCD.v15.2-Full.iso",
+      "size": 651204608,
+      "date": "24-Aug-2013",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/Hiren%27s.BootCD.v15.2-Full.iso"
+    },
+    {
+      "name": "Hiren's.BootCD.v15.2.iso",
+      "size": 623890432,
+      "date": "09-Nov-2012",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/Hiren%27s.BootCD.v15.2.iso"
+    },
+    {
+      "name": "Hirens.BootCD.v14.0-Full.iso",
+      "size": 535961600,
+      "date": "14-Dec-2011",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/Hirens.BootCD.v14.0-Full/Hirens.BootCD.v14.0-Full.iso"
+    },
+    {
+      "name": "en_hiren's_Boot_CD_10.6.rar",
+      "size": 283757764,
+      "date": "12-Jul-2010",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/en_hiren%27s_Boot_CD_10.6.rar"
+    },
+    {
+      "name": "en_hiren's_Boot_CD_10.4.iso",
+      "size": 198301696,
+      "date": "06-Apr-2010",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/en_hiren%27s_Boot_CD_10.4.iso"
+    },
+    {
+      "name": "en_hiren's_Boot_CD_9.9.iso",
+      "size": 186906624,
+      "date": "10-Jun-2009",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/en_hiren%27s_Boot_CD_9.9.iso"
+    },
+    {
+      "name": "en_Hiren's.BootCD.8.8.iso",
+      "size": 71806976,
+      "date": "05-Feb-2007",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/en_Hiren%27s.BootCD.8.8.iso"
+    }
+  ],
+  "associatedResources": [
+    {
+      "name": "00-usb-instalation.pdf",
+      "size": 560839,
+      "date": "04-Jan-2015",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/Hiren%27s%20Boot%20DVD%2015.2%20Restored%20Edition%201.1%20%28January%202013%29/00-usb-instalation.pdf"
+    },
+    {
+      "name": "011-main-menu.png",
+      "size": 10568,
+      "date": "04-Jan-2015",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/Hiren%27s%20Boot%20DVD%2015.2%20Restored%20Edition%201.1%20%28January%202013%29/011-main-menu.png"
+    },
+    {
+      "name": "HBCD.txt",
+      "size": 48514,
+      "date": "04-Jan-2015",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/Hiren%27s%20Boot%20DVD%2015.2%20Restored%20Edition%201.1%20%28January%202013%29/HBCD.txt"
+    },
+    {
+      "name": "Hirens-changes.txt",
+      "size": 8336,
+      "date": "04-Jan-2015",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/Hiren%27s%20Boot%20DVD%2015.2%20Restored%20Edition%201.1%20%28January%202013%29/Hirens-changes.txt"
+    },
+    {
+      "name": "Instrucciones.txt",
+      "size": 995,
+      "date": "04-Jan-2015",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/Hiren%27s%20Boot%20DVD%2015.2%20Restored%20Edition%201.1%20%28January%202013%29/Instrucciones.txt"
+    },
+    {
+      "name": "changelog",
+      "size": 1534,
+      "date": "04-Jan-2015",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/Hiren%27s%20Boot%20DVD%2015.2%20Restored%20Edition%201.1%20%28January%202013%29/changelog"
+    },
+    {
+      "name": "proteus.html",
+      "size": 41805,
+      "date": "04-Jan-2015",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/Hiren%27s%20Boot%20DVD%2015.2%20Restored%20Edition%201.1%20%28January%202013%29/proteus.html"
+    },
+    {
+      "name": "proteus.nfo",
+      "size": 16765,
+      "date": "04-Jan-2015",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/Hiren%27s%20Boot%20DVD%2015.2%20Restored%20Edition%201.1%20%28January%202013%29/proteus.nfo"
+    },
+    {
+      "name": "rufus-1.4.12.exe",
+      "size": 640424,
+      "date": "04-Jan-2015",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/Hiren%27s%20Boot%20DVD%2015.2%20Restored%20Edition%201.1%20%28January%202013%29/rufus-1.4.12.exe"
+    },
+    {
+      "name": "Incluido.txt",
+      "size": 509,
+      "date": "14-Dec-2011",
+      "url": "https://soft.uclv.edu.cu/Hirens.Boot.CD/Hirens.BootCD.v14.0-Full/Incluido.txt"
+    }
+  ]
+}

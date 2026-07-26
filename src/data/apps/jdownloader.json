@@ -1,0 +1,45 @@
+{
+  "id": "jdownloader",
+  "name": "JDownloader",
+  "shortDescription": "Gestor de descargas gratuito para sitios de alojamiento",
+  "fullDescription": "JDownloader es un gestor de descargas gratuito y de código abierto que simplifica la descarga de archivos desde sitios de alojamiento como Mega, MediaFire, RapidGator y más. Soporta descargas paralelas, reconocimiento automático de captchas, extracción automática de archivos comprimidos y gestión de enlaces. Disponible para Windows, Linux y macOS con una interfaz intuitiva y amplias opciones de configuración.",
+  "category": "Utilidades",
+  "iconName": "ArrowDownToLine",
+  "iconBg": "from-rose-500 to-pink-700",
+  "iconColor": "text-white",
+  "version": "2 v21.0.2",
+  "developer": "AppWork GmbH",
+  "links": [
+    {
+      "title": "Página oficial de JDownloader",
+      "url": "http://jdownloader.org/",
+      "type": "official"
+    },
+    {
+      "title": "JDownloader Tutorial en YouTube",
+      "url": "https://www.google.com/search?q=JDownloader+tutorial+espa%C3%B1ol",
+      "type": "other"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "JDownloader2Setup_windows-amd64_v21_0_2.exe",
+      "size": 74391640,
+      "date": "03-Nov-2024",
+      "url": "https://soft.uclv.edu.cu/JDownloader/JDownloader2Setup_windows-amd64_v21_0_2.exe"
+    },
+    {
+      "name": "JDownloader2Setup_windows-amd64_v17_0_10.exe",
+      "size": 68656728,
+      "date": "03-Nov-2024",
+      "url": "https://soft.uclv.edu.cu/JDownloader/JDownloader2Setup_windows-amd64_v17_0_10.exe"
+    },
+    {
+      "name": "JDownloaderSetup.exe",
+      "size": 31767216,
+      "date": "03-Nov-2024",
+      "url": "https://soft.uclv.edu.cu/JDownloader/JDownloaderSetup.exe"
+    }
+  ],
+  "associatedResources": []
+}

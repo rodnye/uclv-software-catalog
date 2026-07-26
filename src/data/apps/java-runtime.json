@@ -1,0 +1,33 @@
+{
+  "id": "java-runtime",
+  "name": "Java Runtime Environment",
+  "shortDescription": "Entorno de ejecución para aplicaciones Java",
+  "fullDescription": "Java Runtime Environment (JRE) es el entorno de ejecución necesario para ejecutar aplicaciones desarrolladas en Java. Incluye la Java Virtual Machine (JVM), las bibliotecas de clases core y otros componentes necesarios. Java es uno de los lenguajes de programación más utilizados en el mundo, y el JRE es esencial para ejecutar aplicaciones de escritorio, applets web y herramientas empresariales basadas en Java.",
+  "category": "Ejecutivos y Runtimes",
+  "iconName": "Coffee",
+  "iconBg": "from-orange-500 to-red-600",
+  "iconColor": "text-white",
+  "version": "1.4.1",
+  "developer": "Oracle Corporation",
+  "links": [
+    {
+      "title": "Página oficial de Java",
+      "url": "https://www.java.com/",
+      "type": "official"
+    },
+    {
+      "title": "Descarga de Java SE",
+      "url": "https://www.oracle.com/java/technologies/downloads/",
+      "type": "official"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "j2re-1_4_1-windows-i586-i.exe",
+      "size": 9931816,
+      "date": "28-Sep-2012",
+      "url": "https://soft.uclv.edu.cu/Java.RunTimeEnviroment/v.4/j2re-1_4_1-windows-i586-i.exe"
+    }
+  ],
+  "associatedResources": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xilinx-ise",
+  "name": "Xilinx ISE Design Suite",
+  "shortDescription": "Suite de diseño para FPGAs y CPLDs",
+  "fullDescription": "Xilinx ISE Design Suite es el entorno de desarrollo integrado para el diseño de FPGAs y CPLDs de Xilinx. Incluye herramientas para síntesis, implementación, simulación y programación de dispositivos lógicos programables. Soporta lenguajes HDL como VHDL y Verilog, y proporciona un flujo de diseño completo desde la descripción del hardware hasta la configuración del dispositivo. Ampliamente utilizado en educación y proyectos de diseño digital.",
+  "category": "Desarrollo",
+  "iconName": "CircuitBoard",
+  "iconBg": "from-red-600 to-orange-700",
+  "iconColor": "text-white",
+  "version": "14.7",
+  "developer": "Xilinx (AMD)",
+  "links": [
+    {
+      "title": "Página oficial de Xilinx",
+      "url": "https://www.xilinx.com/",
+      "type": "official"
+    },
+    {
+      "title": "Tutorial Xilinx ISE en YouTube",
+      "url": "https://www.google.com/search?q=Xilinx+ISE+tutorial",
+      "type": "other"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "Xilinx.ISE.Design.Suite.v14.7.rar",
+      "size": 6563832274,
+      "date": "17-Oct-2023",
+      "url": "https://soft.uclv.edu.cu/ISE.Xilinx/Xilinx.ISE.Design.Suite.v14.7.rar"
+    }
+  ],
+  "associatedResources": []
+}

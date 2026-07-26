@@ -1,0 +1,28 @@
+{
+  "id": "incredimail",
+  "name": "Incredimail",
+  "shortDescription": "Cliente de correo electrónico con efectos visuales",
+  "fullDescription": "Incredimail es un cliente de correo electrónico para Windows que añade efectos visuales y animaciones a los mensajes de email. Permite personalizar los correos con fondos, emoticonos, animaciones y efectos 3D. Incluye una interfaz colorida y divertida, notificaciones animadas de nuevo correo y la capacidad de crear presentaciones de fotos integradas en los mensajes.",
+  "category": "Productividad",
+  "iconName": "Mail",
+  "iconBg": "from-yellow-400 to-orange-500",
+  "iconColor": "text-white",
+  "version": "Spanish",
+  "developer": "Perion Network",
+  "links": [
+    {
+      "title": "Incredimail en Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Incredimail",
+      "type": "other"
+    }
+  ],
+  "downloads": [
+    {
+      "name": "IncrediMailSetup_es.exe",
+      "size": 13512592,
+      "date": "26-Jun-2020",
+      "url": "https://soft.uclv.edu.cu/Incredimail/IncrediMailSetup_es.exe"
+    }
+  ],
+  "associatedResources": []
+}
