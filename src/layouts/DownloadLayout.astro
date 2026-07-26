@@ -1,0 +1,65 @@
+---
+import { getCollection } from 'astro:content';
+
+const { url, name, downloadHeader = 'Iniciando descarga' } = Astro.props;
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Descargando {name}</title>
+    <meta http-equiv="refresh" content={`0;url=${url}`} />
+    <link rel="canonical" href={url} />
+    <style>
+      body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100dvh;
+        margin: 0;
+        font-family:
+          -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        background: #f8f9fa;
+        color: #202124;
+      }
+      .box {
+        text-align: center;
+        padding: 2rem;
+      }
+      .spinner {
+        width: 32px;
+        height: 32px;
+        margin: 0 auto 1rem;
+        border: 3px solid #dadce0;
+        border-top-color: #01875f;
+        border-radius: 50%;
+        animation: spin 0.7s linear infinite;
+      }
+      @keyframes spin {
+        to {
+          transform: rotate(360deg);
+        }
+      }
+      a {
+        color: #01875f;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+    </style></head
+  >
+
+  <body>
+    <div class="box">
+      <div class="spinner"></div>
+      <p style="font-size:14px;margin:0 0 .5rem;">{downloadHeader}...</p>
+      <p style="font-size:13px;color:#5f6368;margin:0;">
+        Si no comienza automáticamente,
+        <a href={url}> haz clic aquí para descargar {name} </a>.
+      </p>
+    </div>
+  </body>
+</html>
